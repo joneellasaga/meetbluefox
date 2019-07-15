@@ -1,0 +1,1817 @@
+@media only screen and (min-width: 1600px) and (max-width: 1920px) {
+ .mk-grid{
+    max-width: 1440px!important;
+ }
+}
+@media only screen and (min-width:2000px){
+    /* for sumo sized (mac) screens */
+    .mk-grid{
+        max-width: 1440px!important;
+    }
+}
+@media (min-width: 1700px){
+    .marketing-organic-container{
+        position: relative;
+        left: -14%;
+    }
+}
+@media (min-width: 1880px){
+    .marketing-organic-container{
+        position: relative;
+        left: -32%;
+    }
+}
+.services-header-title{
+    margin-bottom: 120px;
+}
+.media-services{
+    z-index: 99;
+}
+.marketing-title{
+    font-size: 83px !important;
+    line-height: 67px;
+    color: white !important;
+    position: relative;
+}
+.bottom-border.marketing-title::after {
+    height: 10px;
+    bottom: -20px;
+    width: 163px;
+}
+.marketing-img-container{
+    padding: 60px 60px 0;
+    margin-bottom: 45.5%;
+}
+/* marketing flip */
+.organic-row-container.vc_custom_1492835752951{
+    background-position: left top !important;
+}
+.marketing-organic-flip, .media-marketing-flip {
+    width: 50%;
+    float: left;
+    display: inline-table;
+    overflow: hidden;
+}
+
+.marketing-organic-flip .front-title, .paid-ads-flip .front-title{
+    line-height: 1em;
+    
+}
+.marketing-organic-flip .front-icon, .media-marketing-flip .front-title, 
+.paid-ads-flip .front-icon, .marketing-organic-flip .back-title, .paid-ads-flip .back-title{
+    display:none;
+}
+
+.paid-ads-flip {
+    width: 33.33%;
+    float: left;
+    display: inline-table;
+    overflow: hidden;
+}
+.Chrome .paid-ads-flip{
+    width: 33.34%;
+}
+.IE .bezier-1{
+    transition: all .5s linear;
+}
+
+
+.paid-search .front-title, .display-ads .front-title {
+    padding: 60px !important;
+}
+
+.marketing-list{
+    margin: 0;
+}
+.marketing-list li{
+    height: 356px;
+    width: 356px;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1em;
+    list-style: none;
+    margin-right: -2px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-table;
+    margin-left: 0px;
+}
+.marketing-list li span{
+    position: relative;
+    top: 160px;
+}
+.marketing-list .double-line span{
+    top: 140px;
+}
+.bg-blue{
+    background: #3f9bd4;
+}
+.bg-dark-grey{
+    background: #505051;
+}
+.bg-light-grey{
+    background: #c7c7c7;
+}
+.bg-medium-grey{
+    background: #6d6d6d;
+}
+.hide{
+    display: none;
+}
+.marketing-social-icon, .marketing-organic-list,
+.marketing-social-icon table, .marketing-organic-list table{
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    
+}
+.marketing-social-icon.mk-fancy-table.table-style1 td{
+    border-left: none;
+    padding: 60px;
+}
+.marketing-social-icon .fa{
+    font-size: 64px;    
+}
+.marketing-social-container{
+    margin: 169px 80px !important;
+}
+.Safari .marketing-social-container{
+    margin: 176px 80px !important;
+}
+
+.marketing-organic-container{
+    padding: 60px 60px 31.8em!important;
+}
+.marketing-organic-list.mk-fancy-table.table-style1 td{
+    border-left: none;
+    vertical-align: middle;
+    height: 360px;
+    width: 360px;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1em;
+    text-transform: uppercase;
+    
+}
+.marketing-custom-table{
+    width: 714px;
+}
+
+.paid-row-container.vc_custom_1495518998819 {
+    background-position: right !important;
+}
+.paid-ads-title{
+    white-space: nowrap;
+}
+.paid-ads-container{
+    margin: 25px 35px 0!important;
+}
+.paid-ads-img{
+    right: 4px;
+    top: -1px;
+}
+.content-marketing-container{
+    margin: 90px 0 50px !important;
+}
+.marketing-title-2{
+    line-height: 48px;
+    font-size: 60px !important;
+    position: relative;
+}
+.bottom-border.marketing-title-2::after {
+    height: 6px;
+    bottom: -14px;
+    width: 142px;
+}
+
+.email-marketing-section.vc_custom_1490250400831{
+    background-position: center right !important;
+    padding-bottom: 80px;
+}
+.sales-funnel-desktop dt:after{
+    content: ' ';
+    height: auto;
+    width: 100%;
+    left:0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    z-index: -1;
+    position: absolute;
+}
+.sales-funnel-desktop  dt.get-traffic:after{
+    background-image: url(/wp-content/uploads/2017/04/layer-get-traffic.png);
+    padding: 145px 0;   
+    top: -56px;
+}
+
+.sales-funnel-list dt.get-leads:after{
+    background-image: url(/wp-content/uploads/2017/04/layer-get-leads.png);
+    padding: 124px 0;    
+    top: -40px;
+}
+.sales-funnel-list dt.get-sales:after{
+    background-image: url(/wp-content/uploads/2017/04/layer-get-sales.png);
+    padding: 109px 0;
+    top: -31px;
+}
+.sales-funnel-list dt.retention:after{
+    background-image: url(/wp-content/uploads/2017/04/layer-retention.png);
+    padding: 92px 0;
+    top: -27px;
+}
+
+.sales-funnel-list .dd{
+    padding: 0;
+    color: white;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 18px;
+    text-transform: none;
+}
+.sales-funnel-column .vc_column-inner {
+    margin-bottom: 250px !important;
+    padding-bottom: 100px;
+}
+.sales-funnel-section.vc_custom_1489199782502{
+    padding-bottom: 400px;
+}
+.sales-funnel-list {
+    counter-reset: sales-funnel-list-counter;
+    font-family: "Josefin Sans";
+    font-weight: 700;
+    position: relative;
+    display: block;
+    /*background-image: url(/wp-content/uploads/2017/03/sales-funnel-list-bg.png);*/
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 45px 0;
+    text-align: center;
+}
+.sales-funnel-list dt{
+    padding: 59px 0px 59px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.sales-funnel-list dt:before{
+    content: counter(sales-funnel-list-counter);
+    counter-increment: sales-funnel-list-counter; 
+    background: #fff;
+    color: #0397d2;
+    font-size: 24px;
+    line-height: 1.6em;
+    height: 38px;
+    width: 38px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -55px;
+    left: 46%;
+}
+.sales-funnel-list dd{
+    padding: 0;
+    padding-bottom: 59px;
+    color: white;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 18px;
+}
+.sales-funnel-list-2{
+    background-image: none !important;
+    padding: 0 !important;
+    text-align: left !important;
+    
+    
+}
+.sales-funnel-list-2 dt{
+    padding: 30px 0px 0 !important;
+    color: #0397d2 !important;
+    text-align: left !important;
+    margin-left: 48px !important;
+}
+.sales-funnel-list-2 dt:before{
+    background: #0397d2 !important;
+    color: #fff !important;
+    padding-left: 15px !important;
+    left: 0 !important;
+    margin: 0 !important;
+}
+.sales-funnel-list-2 dd{
+    margin-left: 48px !important;
+    color: #505051 !important;
+    padding: 0px !important;
+    font-weight: normal;
+}
+.features-marketing .icon-box-title{
+    text-transform: none;
+}
+.features-icon .mk-main-ico{
+    width: 51px;
+    background-size: cover;
+    height: 54px;
+}
+.features-icon.enterprise .mk-main-ico{
+    background-image: url(/wp-content/uploads/2017/03/enterprise-icon.png);
+}
+.features-icon.heartbeat .mk-main-ico{
+    background-image: url(/wp-content/uploads/2017/03/heartbeat-icon.png);
+}
+.features-icon .mk-svg-icon{
+    display: none;
+}
+
+.bottom-border.design-header::after{
+    width: 234px;
+    left: 45%;
+    bottom: 0;
+    height: 5px;
+}
+.bottom-border.media-title::after{
+    bottom: -10px;
+    width: 200px;
+    height: 10px;
+}
+.bottom-border.bottom-border2.media-title::after{
+    width: 370px;
+}
+.bottom-border.border-right.media-title::after{
+    right: 0px;
+    left: inherit;
+}
+.border-black::after{
+    background-color: #333;
+}
+.border-white::after{
+    background-color: #fff;
+}
+
+.white, .white p{
+    color: white !important;
+}
+
+.clear-top{
+    top: -2px;
+}
+.clear-top1{
+    top: -1px;
+}
+
+.absolute-img{
+    position: absolute;
+    z-index: -1;
+}
+
+.mk-testimonial.avantgarde-style .mk-testimonial-author{
+	display: none;
+}
+.media-testimonial-container.mk-testimonial.avantgarde-style.mk-testimonial{
+    padding:0px;
+    margin: 0px !important;    
+    margin-top: 190px !Important;
+    margin-bottom: 160px !important;
+    
+}
+.media-testimonial-container .mk-testimonial-content{
+    border: 3px solid #ffffff;
+    padding: 30px 55px !important;    
+    max-width: 70%;
+}
+.media-testimonial-container .media-testimonial-title{
+    font-size: 36px !important;
+    text-transform: uppercase;
+    position:relative;
+}
+.media-testimonial-container .media-testimonial-title:after{
+    bottom: -4px;
+    width: 138px;
+    height: 4px;
+    background: #fff none repeat scroll 0 0;
+    left: 0;
+    content: "";
+    position: absolute;
+}
+.media-testimonial-container.mk-testimonial.avantgarde-style.light-version .media-testimonial-desc{
+    font-size: 20px !important;
+    color: #333 !important;
+}
+.media-testimonial-container .mk-testimonial-content p{
+    text-align: left !important;
+}
+
+.media-testimonial-container .mk-testimonial-content:after,
+.media-testimonial-container .mk-testimonial-content:before{
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+.media-testimonial-container .mk-testimonial-content:after{
+    border-color: rgba(3, 151, 210, 0);
+    border-left-color: #0397d2;
+    border-width: 32px;
+    margin-top: -32px;
+}
+.media-testimonial-container .mk-testimonial-content:before{
+    border-color: rgba(3, 151, 210, 0);
+    border-left-color: #fff;
+    border-width: 38px;
+    margin-top: -38px;
+}
+
+.media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav .flex-prev{
+    left: initial !important;
+    top: -8%!important;
+    right: 2%!important;
+}
+
+.IE .media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav .flex-prev{
+    left: auto !important;
+}
+
+.media-testimonial-container.mk-testimonial.avantgarde-style .mk-testimonial-image img{
+    position: absolute;
+    right: 0;
+    top: 2%;
+    height: auto !important;
+    width: 259px !important;
+    border-radius: 0;
+}
+.media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav a{
+    background-image: url(/wp-content/uploads/2017/02/media-testimonial-arrow.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 209px;
+    height: 128px;
+    border: none !important;
+}
+.media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav a i{
+    display: none;
+}
+.media-testimonial-container.mk-testimonial .flex-direction-nav a{
+    opacity: 1;
+}
+.media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav .flex-next{
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+    right: 2%!important;
+    top: 90%;
+}
+
+.projects-masonry-container .vc_grid.vc_row.vc_grid-gutter-30px .vc_grid-item{
+    padding-right: 65px;
+    padding-bottom: 65px;
+}
+.projects-masonry-container .vc_grid-item-mini{
+    -webkit-box-shadow: -2px 1px 53px -4px rgba(0,0,0,0.6);
+    -moz-box-shadow: -2px 1px 53px -4px rgba(0,0,0,0.6);
+    box-shadow: -2px 1px 53px -4px rgba(0,0,0,0.6);
+}
+.projects-masonry-container .vc_btn3.vc_btn3-shape-rounded{
+    background-image: none;
+}
+.projects-masonry-container .vc_btn3.vc_btn3-size-md{
+    font-size: 36px;
+    text-transform: uppercase;
+    padding: 14px 20px !important;
+}
+.vc_grid .vc_pageable-load-more-btn{
+    margin-top: 0;
+    margin-left: -45px;
+}
+.vc_grid-btn-load_more .vc_btn3-icon {
+    -webkit-animation: rotation 2s infinite linear;
+    -moz-animation: rotation 2s infinite linear;
+    animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to   {
+        -webkit-transform: rotate(359deg);
+        -moz-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+@-moz-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to   {
+        -webkit-transform: rotate(359deg);
+        -moz-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+@keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to   {
+        -webkit-transform: rotate(359deg);
+        -moz-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+.projects-masonry-container .vc_btn3.vc_btn3-size-md.vc_btn3-icon-left:not(.vc_btn3-o-empty) .vc_btn3-icon{
+    left: 45%;
+    top: 100%;
+}
+.projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon{
+    font-size: 46px;
+}
+
+@media (max-width: 1880px){
+    .marketing-title{
+        font-size: 68px !important;
+    }
+
+    .projects-title{
+        font-size: 360px !important;
+    }
+}
+@media (max-width: 1700px){
+    .paid-ads-title{
+        font-size: 60px !important;
+        line-height: 54px;
+    }
+    .bottom-border.marketing-title.paid-ads-title:after{
+        height: 6px;
+        bottom: -11px;
+        width: 142px;
+    }
+
+    .projects-title{
+        font-size: 330px !important;
+    }
+}
+@media (max-width: 1600px){
+    
+    .services-header-title{
+        margin-bottom: 0px;
+    }
+    .services-header-container.vc_custom_1489809367819{
+        
+    }
+    
+    .paid-ads-img{
+        right: -156px;
+    }
+    .media-services.vc_custom_1489040877890{
+        margin-top: -4.7% !important;
+    }
+    .marketing-title{
+        font-size: 72px !important;
+        line-height: 0.85em;
+    }
+    .marketing-organic-container{
+        padding: 60px 0px 33em!important;
+    }
+    .marketing-social-container{
+        margin: 177px 80px !important;
+    }
+    .Safari .marketing-social-container{
+        margin: 184px 80px !important;
+    }
+    .paid-ads-container {
+        margin: 80px 15px 0!important;
+    }
+    .paid-ads-title{
+        font-size: 60px !important;
+
+    }
+    .content-marketing-section.vc_custom_1490322422572{
+        margin-top: -2px !important;
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -32px;
+    }
+    .features-marketing.vc_custom_1489201818353{
+        padding-top: 20px !important;
+    }
+    .features-marketing-section.vc_custom_1489825023255{
+        margin-bottom: 20px !important;
+    }
+    .projects-title{
+        font-size: 300px !important;
+        margin-bottom: 30px;
+        white-space: nowrap;
+    }
+    
+}
+@media (max-width: 1599px){
+    .sales-funnel-list dt{
+        padding: 59px 0px 35px;
+    }
+    .sales-funnel-desktop  dt.get-traffic:after{
+        padding: 103px 0;
+        top: -12px;
+    }
+
+    .sales-funnel-list dt.get-leads:after{
+      
+        padding: 97px 0;    
+        top: -21px;
+    }
+    .sales-funnel-list dt.get-sales:after{
+      
+        padding: 85px 0;
+        top: -26px;
+    }
+    .sales-funnel-list dt.retention:after{
+       
+        padding: 72px 0;
+        top: -33px;
+    }
+}
+@media (max-width: 1550px){
+    .marketing-title-2, .paid-ads-title{
+        font-size: 52px !important;
+    }
+}
+@media (max-width: 1440px){
+    .services-header-title{
+        font-size: 165px !important;
+        line-height: 1em !important;
+    }
+    .media-services.vc_custom_1489040877890 {
+        margin-top: -5.7%!important;
+    }
+      
+    .marketing-organic-flip .front-title, .paid-ads-flip .front-title{
+        font-size: 30px !important;
+    }
+    .paid-ads-flip .mk-flipbox-front, .paid-ads-flip .mk-flipbox-back,
+    .marketing-organic-flip .mk-flipbox-front, .marketing-organic-flip .mk-flipbox-back{
+        height: 261px !important;
+    }
+    .marketing-organic-flip .mk-flipbox-holder, .paid-ads-flip .mk-flipbox-holder {
+        min-height: 261px !important;
+    }
+    .media-marketing-flip .mk-flipbox-front, .media-marketing-flip .mk-flipbox-back{
+        height: 134px !important;
+    }
+    .media-marketing-flip .mk-flipbox-holder {
+        min-height: 134px !important;
+    }
+    .paid-ads-img{
+        right: -161px;
+    }
+    .marketing-organic-flip .back-desc, .paid-ads-flip .back-desc{
+        font-size: 13px !important;       
+    }
+    .organic-marketing-container.vc_custom_1490258265527{
+        margin-top: 88px !important;
+    }
+    .marketing-custom-table {
+        width: 564px;
+    }
+    .marketing-title{
+        font-size: 60px !important;
+    }
+    .organic-row-container.vc_custom_1492835752951{
+        background-size: 51% 100% !important;
+    }
+    .marketing-organic-container {
+        padding: 45px 50px 22.1em!important;
+    }
+    .bottom-border.marketing-title::after {
+        height: 8px;
+        bottom: -15px;
+    }
+    .marketing-organic-list.mk-fancy-table.table-style1 td{
+        height: 261px;
+        width: 261px;
+        font-size: 30px;
+    }
+    .marketing-social-container {
+        margin: 117px 50px !important;
+    }
+    .Safari .marketing-social-container {
+        margin: 124px 50px !important;
+    }
+    .marketing-social-icon.mk-fancy-table.table-style1 td{
+        padding: 40px;
+    }
+    .marketing-social-icon .fa {
+        font-size: 54px;
+    }
+    .paid-ads-title, .marketing-title-2{        
+        line-height: 0.9em;
+        font-size: 50px !important;
+    }
+    .paid-ads-img img{
+        height: auto;
+        width: 72.5%;
+    }
+    .content-marketing-container {
+        margin: 60px 0 20px !important;
+    }
+   
+    .sales-funnel-list {
+        padding: 65px 0;
+    }
+    .sales-funnel-list dt {
+        padding: 59px 0 25px;
+        font-size: 22px;
+    }
+    .sales-funnel-list dd {
+        padding-bottom: 60px;
+        font-size: 16px;
+    }
+    .sales-funnel-list dt:before {
+        margin-top: -47px;
+    }
+    .sales-funnel-desktop dt.get-traffic:after{
+        top: -19px;
+    }
+    .sales-funnel-list dt.get-leads:after{
+        padding: 97px 0;
+        top: -16px;
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -10px;
+        padding: 85px 0;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 72px 0;
+        top: -6px;
+    }
+    .projects-title{
+        font-size: 280px!important;
+        margin-bottom: 38px;
+    }
+    
+    .media-testimonial-container.mk-testimonial.avantgarde-style.mk-testimonial{       
+        margin-top: 150px!important;
+        margin-bottom: 120px!important
+    }
+}
+
+@media (max-width: 1366px){
+    .organic-row-container.vc_custom_1492835752951{
+        background-size: contain !important;
+    }
+    .sales-funnel-desktop dt.get-traffic:after{
+        top: -18px;
+    }
+    .paid-ads-title, .marketing-title-2{        
+        font-size: 45px !important;
+    }
+
+    .projects-title {
+        font-size: 270px!important;
+        margin-bottom: 38px;
+    }
+    .paid-ads-img {
+        right: -198px;
+    }
+}
+@media (max-width: 1280px){
+    
+    .services-form-title{
+        font-size: 40px !important;
+    }
+    .services-header-container.vc_custom_1489809367819 {
+        
+    }
+    .services-header-title{
+        font-size: 146px!important;
+        letter-spacing: 10px;
+    }
+    .organic-row-container .mk-grid,.social-row-container .mk-grid, .paid-row-container .mk-grid{
+        width: 100% !important;
+    }
+    .bottom-border.marketing-title-2::after, .bottom-border.marketing-title.paid-ads-title:after {        
+        width: 115px;
+    }
+    .paid-ads-img {
+        right: -241px;
+    }
+   
+    .organic-marketing-container.vc_custom_1490258265527 {
+        margin-top: 58px!important;
+    }
+    .paid-ads-title, .marketing-title-2 {
+        font-size: 40px!important;
+    }
+    .paid-ads-container {
+        margin: 60px 15px 0!important;
+    }
+    .projects-title {
+         font-size: 254px!important;
+        margin-bottom: 10px;
+    }
+    .projects-masonry-container.vc_custom_1490254323306{
+        margin-top: -84px!important;
+    }
+}
+@media (max-width: 1224px){
+     .projects-title {
+        font-size: 222px!important;       
+    }
+}
+@media (max-width: 1171px){
+    .sales-funnel-desktop dt.get-traffic:after {    
+        top: -21px;
+    }
+    .sales-funnel-list dt.get-leads:after{
+        padding: 94px 0;
+        top: -19px;
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -16px;
+        padding: 82px 0;;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 70px 0;
+        top: -17px;
+    }
+}
+@media (max-width: 1135px){
+    .paid-ads-title, .marketing-title-2 {
+        font-size: 36px!important;
+    }
+    .bottom-border.marketing-title-2::after, .bottom-border.marketing-title.paid-ads-title:after {
+        width: 116px;
+    }
+    .sales-funnel-list dt.get-leads:after{
+        padding: 91px 0;
+        top: -19px;
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -19px;
+        padding: 80px 0;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 67px 0;
+        top: -22px;
+    }
+}
+@media (max-width: 1090px){
+    .sales-funnel-list dt{
+        font-size: 20px;
+        padding: 59px 0 15px;
+    }
+    .sales-funnel-list .dd{
+        font-size: 16px;
+    }
+    .sales-funnel-list dt.get-leads:after{
+        padding: 87px 0;
+        top: -10px;
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -6px;
+        padding: 76px 0;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 64px 0;
+        top: -5px;
+    }
+}
+@media (max-width: 1024px){
+    .services-header-title {
+        font-size: 125px!important;
+        letter-spacing: 7px;
+    }
+    .media-services.vc_custom_1489040877890 {
+        margin-top: -6.7%!important;
+    }
+    .organic-row-container .mk-grid, .social-row-container .mk-grid, .paid-row-container .mk-grid {
+        width: 100%!important;
+    }  
+    .marketing-organic-flip {
+        width: 50%;
+    }
+    .marketing-organic-flip .front-title, .paid-ads-flip .front-title{
+        font-size: 22px !important;
+    }
+    .paid-ads-flip .mk-flipbox-front, .paid-ads-flip .mk-flipbox-back,
+    .marketing-organic-flip .mk-flipbox-front, .marketing-organic-flip .mk-flipbox-back{
+        height: 216px !important;
+    }
+    .marketing-organic-flip .mk-flipbox-holder, .paid-ads-flip .mk-flipbox-holder {
+        min-height: 216px !important;
+    }
+    .media-marketing-flip .mk-flipbox-front, .media-marketing-flip .mk-flipbox-back{
+        height: 118px !important;
+    }
+    .media-marketing-flip .mk-flipbox-holder {
+        min-height: 118px !important;
+    }
+    .media-marketing-flip .front-icon svg{
+        height: 56px !important;
+    }
+    .paid-ads-img{
+        right: -330px;
+    }
+    .marketing-organic-flip .back-desc, .paid-ads-flip .back-desc{
+        font-size: 12px !important;
+        line-height: 1.2em;
+    }
+    .marketing-title {
+        font-size: 42px !important;
+    }
+    .bottom-border.marketing-title::after {
+        height: 6px;
+        bottom: -12px;
+        width: 100px;
+    }
+    .marketing-organic-container {
+        padding: 45px 45px 19.1em!important;
+    }
+    .marketing-custom-table {
+        width: 486px;
+    }
+    .marketing-organic-list.mk-fancy-table.table-style1 td {
+        height: 216px;
+        width: 216px;
+        font-size: 22px;
+    }
+    .marketing-social-icon .fa {
+        font-size: 38px;
+    }
+    .content-marketing-section.vc_custom_1490322422572{
+        background-image: url(/wp-content/uploads/2017/03/content-marketing-1024x700.jpg) !important;
+        background-color: white;
+        background-position: left -202px center !important;
+        
+    }
+    .email-marketing-section.vc_custom_1490250400831{
+        background-image: url(/wp-content/uploads/2017/03/email-marketing-1024x741.jpg) !important;
+        background-position: left 186px center !important;
+    }
+    .sales-funnel-section.vc_custom_1492768852029{
+        background-image: url(/wp-content/uploads/2017/03/sales-funnel-marketing-1024x683.jpg) !important;
+        background-position: left 0px center !important;
+    }
+    .paid-ads-container {
+        margin: 35px 10px 0!important;
+    }
+    .paid-ads-title, .marketing-title-2 {
+        font-size: 30px!important;
+    }
+    .paid-ads-img img {
+        height: auto;
+        width: 74%;
+    }
+    .bottom-border.marketing-title.paid-ads-title:after {
+        height: 5px;
+        bottom: -9px;        
+    }
+    .bottom-border.marketing-title-2::after, 
+    .bottom-border.marketing-title.paid-ads-title:after {
+        width: 95px;
+    }
+    .bottom-border.marketing-title-2::after {
+        height: 5px;
+        bottom: -10px;        
+    }
+    .content-marketing-container {
+        margin: 40px 0 10px !important;
+    }
+    .sales-funnel-column .vc_column-inner {
+        margin-bottom: 100px !important;
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+        padding-bottom: 50px;
+    }
+    .sales-funnel-desktop dt.get-traffic:after {       
+        top: -5px;
+        padding: 86px 0;
+    }
+    .sales-funnel-list dt.get-leads:after {
+        padding: 81px 0;
+        top: -8px;
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: -9px;
+        padding: 71px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 60px 0;
+        top: -11px;
+    }
+    .sales-funnel-list dt {
+        padding: 50px 0 20px;
+        font-size: 18px;
+    }
+    .sales-funnel-list dt:before {
+        margin-top: -40px;
+        font-size: 22px;
+        line-height: 1.5em;
+        height: 32px;
+        width: 32px;   
+    }
+    
+    .sales-funnel-list-2 dt{
+        padding: 12px 0px 0 !important;
+    }
+    .sales-funnel-list-2 dt:before{
+        padding-left: 12px !important;
+    }
+    
+    .features-marketing .icon-box-title{
+        font-size: 23px !important;
+        line-height: 1em;
+    }
+    .projects-title {
+        font-size: 195px!important;
+        margin-bottom: 24px;
+    }
+    .projects-masonry-container .vc_grid.vc_row.vc_grid-gutter-30px .vc_grid-item {
+        padding-right: 35px;
+        padding-bottom: 35px;
+    }
+    .projects-masonry-container.vc_custom_1490254323306 {
+        margin-right: 45px !important;
+    }
+    .vc_grid .vc_pageable-load-more-btn{
+        margin: 0 auto;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md{
+        font-size: 26px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon{
+        font-size: 34px;
+    }
+    
+    .media-testimonial-container .mk-testimonial-content{
+        max-width: 67%;
+    }
+}
+@media (max-width: 979px){
+    
+    .sales-funnel-list dt.get-leads:after{
+        padding: 78px 0;       
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -13px;
+        padding: 68px 0;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 58px 0;
+        top: -20px;
+    }
+}
+@media (max-width: 960px){
+
+    .projects-title{
+        font-size: 175px!important;
+        margin-bottom: 32px;
+    }
+
+    .media-testimonial-container.mk-testimonial.avantgarde-style.mk-testimonial{
+        margin-right: 15px !important;
+        margin-top: 180px !Important;
+        margin-bottom: 60px !important;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .mk-testimonial-content{
+        padding: 15px !important;
+        margin-top: 115px;
+    }
+    .media-testimonial-container .mk-testimonial-content{
+        margin-left: 15px;
+        max-width: 100%;
+    }
+    .media-testimonial-container .mk-testimonial-content:after, .media-testimonial-container .mk-testimonial-content:before{
+        bottom: 100%;
+        left: 50%;
+        top: auto;
+    }
+    .media-testimonial-container .mk-testimonial-content:before{
+        border-color: rgba(194, 225, 245, 0);
+        border-bottom-color: #ffffff;
+        border-width: 35px;
+        margin-left: -35px;
+        margin-top: 0;
+    }
+    .media-testimonial-container .mk-testimonial-content:after{
+        border-color: rgba(3,151,210,0);
+        border-bottom-color: #0397d2;
+        border-width: 30px;
+        margin-left: -30px;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav a{
+        width: 148px;
+        height: 128px;
+    }
+    .IE .media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav .flex-prev{
+        left: 0 !important;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav .flex-prev{
+        top: -19%!important;
+        left: 0 !important;
+        right: initial !important;
+        -webkit-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav .flex-next {
+        -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        transform: rotate(90deg);
+        top: -19% !important;
+        right: -3% !important;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .mk-testimonial-image img{
+        width: 160px !important;
+        left: 13px !important;
+        top: -26%!important;
+    }
+}
+@media (max-width: 910px){
+    .sales-funnel-list dt {
+        padding: 50px 0 10px;        
+    }
+    .sales-funnel-list dt.get-leads:after{
+        padding: 72px 0;
+        top: 0px;     
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: -2px;
+        padding: 63px 0;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 53px 0;
+        top: -8px;
+    }
+}
+@media (max-width: 820px){
+
+    .projects-title {
+        font-size: 150px!important;
+        margin-bottom: 38px;
+    }
+    .sales-funnel-list dt {
+        padding: 50px 0 2px;
+        font-size: 16px;
+    }
+    .sales-funnel-list .dd {
+        font-size: 15px;
+    }
+    .sales-funnel-list dt.get-leads:after{
+        padding: 64px 0;
+        top: 7px;  
+    }
+    .sales-funnel-list dt.get-sales:after{
+        top: 1px;
+        padding: 56px 0;
+    }
+    .sales-funnel-list dt.retention:after{
+        padding: 47px 0;
+        top: -6px;
+    }
+
+
+}
+@media (max-width: 768px){
+    .services-header-title {
+        font-size: 110px!important;
+    }
+    .marketing-custom-table {
+        width: 348px;
+    }
+    .marketing-organic-container {
+        padding: 30px 30px 14.4em!important;
+    }
+    .marketing-organic-list.mk-fancy-table.table-style1 td {
+        height: 175px;
+        width: 175px;
+        font-size: 17px;
+    }
+    .marketing-social-container {
+        margin: 75px 50px !important;
+    }
+    .Safari .marketing-social-container {
+        margin: 83px 50px !important;
+    }
+    .marketing-social-icon.mk-fancy-table.table-style1 td {
+        padding: 28px;
+    }
+    .marketing-social-icon .fa {
+        font-size: 34px;
+    }
+    .marketing-organic-flip .front-title, .paid-ads-flip .front-title{
+        font-size: 17px !important;
+    }
+    .paid-ads-flip .mk-flipbox-front, .paid-ads-flip .mk-flipbox-back,
+    .marketing-organic-flip .mk-flipbox-front, .marketing-organic-flip .mk-flipbox-back{
+        height: 175px !important;
+    }
+    .marketing-organic-flip .mk-flipbox-holder, .paid-ads-flip .mk-flipbox-holder {
+        min-height: 175px !important;
+    }
+    .media-marketing-flip .mk-flipbox-front, .media-marketing-flip .mk-flipbox-back{
+        height: 90px !important;
+    }
+    .media-marketing-flip .mk-flipbox-holder {
+        min-height: 90px !important;
+    }
+    .media-marketing-flip .front-icon svg{
+        height: 40px !important;
+    }
+    .media-marketing-flip .back-title{
+        font-size: 15px;
+    }
+    .marketing-organic-flip .back-desc, .paid-ads-flip .back-desc{
+        max-height: 152px;
+        overflow: hidden;
+    }
+    
+    .paid-ads-img{
+        right: -330px;
+    }
+    
+    .paid-ads-img img {
+        height: auto;
+    }
+    .paid-ads-title, .marketing-title-2 {
+        font-size: 24px!important;
+    }
+    p {
+        font-size: 14px !important;
+    
+    }
+    .sales-funnel-list {
+        padding: 37px 0;
+    }
+    .sales-funnel-list dt {
+        padding: 44px 0 0px;
+        font-size: 15px;
+    }
+    .sales-funnel-list .dd{
+        font-size: 15px;
+    }
+    .sales-funnel-desktop dt.get-traffic:after {
+        top: 9px;
+        padding: 64px 0;
+    }   
+    .sales-funnel-list dt.get-leads:after {
+        padding: 60px 0;
+        top: 4px;
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: 2px;
+        padding: 53px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 45px 0;
+        top: -2px;
+    }
+    .sales-funnel-list dt:before {
+        margin-top: -28px;
+        font-size: 16px;
+        line-height: 1.5em;
+        height: 25px;
+        width: 25px;
+    }
+    .sales-funnel-list dd {
+        padding-bottom: 35px;
+        font-size: 13px;
+    }
+    .sales-funnel-list-2 dt:before {
+        padding-left: 9px !important;
+    }
+    .content-marketing-container {
+        margin: 20px 0 10px !important;
+    }
+    .sales-funnel-column .vc_custom_1490257973605{
+        margin-bottom: 50px !important;
+    }
+    .sales-funnel-list-2 {
+        padding: 0 0 25px !important;
+    }
+    .mk-box-icon.simple_minimal-style .mk-main-ico.x-large .mk-svg-icon {
+        height: 28px!important;
+        width: 28px!important;
+    }
+    .features-icon .mk-main-ico {
+        width: 39px;
+        height: 39px;
+    }
+    .features-marketing .icon-box-title {
+        font-size: 18px !important;
+    }
+    .features-marketing-section.vc_custom_1489825023255 {
+        margin-bottom: 0px !important;
+    }
+    .projects-title {
+        font-size: 140px!important;     
+        margin-bottom: 8px;  
+    }
+    .projects-masonry-container.vc_custom_1490254323306 {
+        margin-top: -50px!important;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md{
+        font-size: 22px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon {
+        font-size: 30px;
+    } 
+}
+
+
+
+@media (max-width: 767px){
+    .services-form-title {
+        font-size: 36px !important; 
+    }
+    .services-header-title {        
+        letter-spacing: 1px !important;
+        line-height: 1em !important;   
+    }
+    .media-services.vc_custom_1489040877890{
+        margin-bottom: 120px;
+    }
+     p {
+        font-size: 16px !important;
+    
+    }
+    .organic-row-container .mk-grid{
+        width: 100% !important;
+    }
+    .marketing-organic-wrapper{
+        min-height: 207px;
+    }
+    .marketing-organic-flip, .paid-ads-flip, .Chrome .paid-ads-flip {
+        width: 50%;
+    }
+    .marketing-organic-flip .front-title, .paid-ads-flip .front-title {
+        font-size: 25px!important;
+    }
+    .paid-ads-flip .mk-flipbox-front, .paid-ads-flip .mk-flipbox-back,
+    .marketing-organic-flip .mk-flipbox-front, .marketing-organic-flip .mk-flipbox-back{
+        height: 207px !important;
+    }
+    .marketing-organic-flip .mk-flipbox-holder, .paid-ads-flip .mk-flipbox-holder {
+        min-height: 207px !important;
+    }
+    .media-marketing-flip .mk-flipbox-front, .media-marketing-flip .mk-flipbox-back{
+        height: 207px !important;
+    }
+    .media-marketing-flip .mk-flipbox-holder {
+        min-height: 207px !important;
+    }
+    .media-marketing-flip .front-icon svg{
+        height: 58px !important;
+    }
+    .media-marketing-flip .back-title{
+        font-size: 20px;
+    }
+    .paid-search .front-title, .display-ads .front-title {
+        padding: 50px !important;
+    }
+    .organic-row-container.vc_custom_1492835752951{
+        background-image: url(/wp-content/uploads/2017/03/organic-online-marketing-mobile.jpg)!important;
+        background-size: cover;
+    }
+    .marketing-organic-container{       
+        width: 100%;
+        padding: 30px 22px 14.2em !important;        
+    }
+    .marketing-title, .marketing-title-2{
+        font-size: 45px !important;
+        line-height: 0.9em;
+    }
+    .bottom-border.marketing-title::after, .bottom-border.marketing-title-2::after {
+        height: 5px;
+        bottom: -8px;
+        width: 94px;
+    }
+    .marketing-custom-table{
+        max-width: 480px;
+        width: 100%;
+    }
+    .marketing-organic-list.mk-fancy-table.table-style1 td{
+        height: 241px;
+        width: 241px;
+        font-size: 25px;
+    }
+    .marketing-social-container{
+        margin: 0px !important;
+        padding: 50px 22px 40px;
+    }
+    .Safari .marketing-social-container{
+        margin: 0px !important;
+        padding: 50px 22px 47px;
+    }
+    .marketing-social-icon.mk-fancy-table.table-style1 td{
+        padding: 50px;
+    }
+    .paid-ads-container{
+        margin: 0px !important;
+        padding: 25px 22px 112px;
+    }
+    .content-marketing-container, .content-marketing {
+        min-height: 220px;
+    }
+    .content-marketing .marketing-title-2{
+        text-align: right;
+    }
+    .content-marketing .bottom-border.marketing-title-2::after{
+        left: initial;
+        right: 0px;
+    }
+    .content-marketing-container.email-marketing{
+        left: 5%;
+    }
+    .content-marketing-container.sales-marketing{
+        left: 0;
+        top:0;
+        min-height: 0;
+        position: relative;
+        
+    }
+    /*.sales-funnel-list{
+        background-image: url(/wp-content/uploads/2017/03/sales-funnel-list-bg.png);
+        background-position: center top;
+    }*/
+    .sales-funnel-list dt:before{
+        left: 48%;
+    }
+    .sales-funnel-list dt {
+        padding: 44px 0 12px;        
+    }
+    .sales-funnel-desktop dt.get-traffic:after {
+        top: -14px;
+        padding: 82px 0;
+    }    
+    .sales-funnel-list dt.get-leads:after {
+        padding: 77px 0;   
+        top: -7px;    
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: 3px;
+        padding: 67px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 57px 0;
+        top: 9px;
+    }
+
+    .sales-funnel-section.vc_custom_1492768852029{
+        background-image: url(/wp-content/uploads/2017/03/sales-funnel-marketing-mobile.jpg) !important;
+    }
+    .sales-marketing .marketing-title-2{
+        margin-bottom: 30px;
+    }
+    .sales-funnel-column .vc_custom_1490257973605{
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+        background-color: transparent!important;
+    }
+    .sales-funnel-list-2{
+        padding: 0 0 20px !important;
+    }
+    .sales-funnel-list-2 dt {
+        padding: 15px 0px 0 !important;
+        font-size: 23px;
+    }
+    .sales-funnel-list-2 dt:before {
+        padding-left: 15px !important;
+        font-size: 24px;
+        height: 38px;
+        line-height: 1.6em;
+        width: 38px;
+    }
+    .sales-funnel-list-2 dd {
+        padding-bottom: 0px !important;
+        font-size: 18px;
+    }
+    
+    .sales-funnel-list.sales-funnel-mobile{
+        padding: 53px 0;
+    }
+    .sales-funnel-list.sales-funnel-mobile dt{
+        padding: 8px 0 0;
+        font-size: 20px;
+    }
+    .sales-funnel-list.sales-funnel-mobile dt:before{
+        margin-top: -28px;
+        font-size: 15px;
+        line-height: 1.6em;
+        height: 23px;
+        width: 23px;
+    }
+    .sales-funnel-list.sales-funnel-mobile dd{
+        padding-bottom: 51px;
+        font-size: 16px;
+    }
+    .features-marketing .icon-box-title {
+        font-size: 30px !important;
+    }
+    .mk-box-icon.simple_minimal-style .mk-main-ico.x-large .mk-svg-icon {
+        height: 48px!important;
+        width: 48px!important;
+    }
+    .features-icon .mk-main-ico {
+        width: 51px;
+        height: 54px;
+    }
+    .features-marketing-section.vc_custom_1489825023255{
+        margin-bottom: 70px !important;
+    }
+    .features-marketing.vc_custom_1489201818353{
+        padding-top: 20px !important;
+    }
+    
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md {
+        font-size: 30px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon {
+        font-size: 40px;
+    }
+    .projects-masonry-container.vc_custom_1490254323306{
+       margin-right: 20px !important;
+        margin-left: 20px !important;
+    }
+    .projects-masonry-container .vc_grid.vc_row.vc_grid-gutter-30px .vc_grid-item{
+        padding-right: 25px;
+        padding-bottom: 38px;
+    }
+    .vc_btn3.vc_btn3-size-md.vc_btn3-icon-left:not(.vc_btn3-o-empty){
+        padding: 14px 0;
+    }
+
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md{
+        font-size: 32px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon {
+        font-size: 42px;
+    }
+    .media-testimonial-container .media-testimonial-title{
+        line-height: 1em;
+    }
+    .media-testimonial-container .media-testimonial-title:after{
+        bottom: -7px;
+    }
+}
+@media only screen and (max-device-width: 640px) and (orientation:landscape) {
+   .services-header-title {
+        font-size: 88px!important;
+    } 
+}
+@media (max-width: 480px){
+    .sales-funnel-list.sales-funnel-mobile dt{
+       
+        font-size: 15px;
+    }
+    .sales-funnel-list.sales-funnel-mobile dd{       
+        font-size: 11px;
+    }
+    .services-header-container.vc_custom_1489809367819 {
+        
+    }    
+    .marketing-organic-container{
+        padding: 30px 22px 6.4em !important;
+    }
+    .services-header-title{
+        font-size: 60px !important;
+    }
+    .marketing-title, .marketing-title-2 {
+        font-size: 40px !important;
+    }
+    .sales-funnel-list dt:before{
+        left: 46%;
+    }
+    .sales-funnel-list dt {
+        padding: 44px 0 0px;        
+    }
+    .sales-funnel-desktop dt.get-traffic:after {
+        top: 0px;
+        padding: 66px 0;
+    }
+    .sales-funnel-list dt.get-leads:after {
+        padding: 62px 0;
+        top: -2px;
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: -1px;
+        padding: 54px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 45px 0;
+        top: -2px;
+    }
+
+
+    .sales-funnel-list.sales-funnel-mobile{
+        padding: 42px 0;
+    }
+    .sales-funnel-list.sales-funnel-mobile dt{
+        padding: 11px 0 0;
+        line-height: 1em;
+    }
+    .sales-funnel-list.sales-funnel-mobile dd{
+        padding-bottom: 38px;
+    }
+    
+    .proj-title{
+        font-size: 176px !important;
+    }
+    .jects-title{
+        font-size: 132px !important;        
+    }
+    .media-testimonial-container .media-testimonial-title{
+        font-size: 30px !important;
+    }
+}
+@media (max-width: 375px){
+    .services-header-container.vc_custom_1489809367819 {
+        
+    }
+    .marketing-organic-flip .front-title, .paid-ads-flip .front-title {
+        font-size: 20px!important;
+    }
+    
+    .marketing-organic-list.mk-fancy-table.table-style1 td {
+        height: 191px;
+        width: 191px;
+        font-size: 22px;
+    }
+    .marketing-title, .marketing-title-2 {
+        font-size: 36px !important;
+    }
+    .sales-funnel-list dt {
+        padding: 40px 0 0px;
+    }
+    .sales-funnel-list dt.get-leads:after {
+        padding: 59px 0;
+        top: 2px;
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: 3px;
+        padding: 52px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 44px 0;
+        top: 2px;
+    }
+
+    .sales-funnel-list.sales-funnel-mobile{
+        padding: 36px 0 0px;
+    }
+    .sales-funnel-list.sales-funnel-mobile dd{
+        padding-bottom: 31px;
+    }
+    .marketing-social-icon.mk-fancy-table.table-style1 td {
+        padding: 43px;
+    }
+    
+    .proj-title {
+        font-size: 159px !important;
+    }
+    .jects-title {
+        font-size: 120px !important;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md {
+        font-size: 28px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon {
+        font-size: 38px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md{
+        padding: 14px 0px !important;
+    }
+}
+@media (max-width: 360px){
+    .services-form-title {
+        font-size: 30px !important;
+    }   
+    .sales-funnel-list.sales-funnel-mobile {
+        padding: 27px 0 0px;
+    }
+    .features-marketing .icon-box-title {
+        font-size: 26px!important;
+    }
+    .sales-funnel-list dt.get-leads:after {
+        padding: 57px 0;
+        top: 1px;
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: -1px;
+        padding: 50px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 42px 0;
+        top: -4px;
+    }
+    
+    .paid-ads-flip .mk-flipbox-front, .paid-ads-flip .mk-flipbox-back,
+    .marketing-organic-flip .mk-flipbox-front, .marketing-organic-flip .mk-flipbox-back{
+        height: 180px !important;
+    }
+    .marketing-organic-flip .mk-flipbox-holder, .paid-ads-flip .mk-flipbox-holder {
+        min-height: 180px !important;
+    }
+    .media-marketing-flip .mk-flipbox-front, .media-marketing-flip .mk-flipbox-back{
+        height: 180px !important;
+    }
+    .media-marketing-flip .mk-flipbox-holder {
+        min-height: 180px !important;
+    }
+
+    .media-testimonial-container.mk-testimonial.avantgarde-style.light-version .media-testimonial-desc {
+        font-size: 18px!important;
+    }
+}
+@media (max-width: 320px){
+    .services-header-container.vc_custom_1489809367819 {
+        
+    }
+    .services-header-title {
+        font-size: 46px!important;
+    }
+    .marketing-organic-flip .front-title, .paid-ads-flip .front-title {
+        font-size: 18px!important;
+    }
+    .paid-ads-flip .mk-flipbox-front, .paid-ads-flip .mk-flipbox-back,
+    .marketing-organic-flip .mk-flipbox-front, .marketing-organic-flip .mk-flipbox-back{
+        height: 160px !important;
+    }
+    .marketing-organic-flip .mk-flipbox-holder, .paid-ads-flip .mk-flipbox-holder {
+        min-height: 160px !important;
+    }
+    .media-marketing-flip .mk-flipbox-front, .media-marketing-flip .mk-flipbox-back{
+        height: 160px !important;
+    }
+    .media-marketing-flip .mk-flipbox-holder {
+        min-height: 160px !important;
+    }
+    
+    .marketing-organic-list.mk-fancy-table.table-style1 td {
+        height: 163px;
+        width: 163px;
+        font-size: 18px;
+    }
+    .marketing-social-icon.mk-fancy-table.table-style1 td {
+        padding: 41px;
+    }
+    .sales-funnel-list.sales-funnel-mobile {
+        padding: 6px 0 0;
+    }
+
+    .sales-funnel-list dt {
+        padding: 30px 0 0px;
+        font-size: 13px;
+    }
+    .sales-funnel-list .dd {
+        font-size: 12px;
+    }
+    .sales-funnel-desktop dt.get-traffic:after {
+        top: -16px;       
+    }    
+    .sales-funnel-list dt.get-leads:after {
+        padding: 50px 0;
+        top: -5px;
+    }
+    .sales-funnel-list dt.get-sales:after {
+        top: -6px;
+        padding: 44px 0;
+    }
+    .sales-funnel-list dt.retention:after {
+        padding: 37px 0;
+        top: -9px;
+    }
+    
+    .proj-title {
+        font-size: 135px!important;
+    }
+    .jects-title {
+        font-size: 102px!important;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md {
+        font-size: 22px;
+    }
+    .projects-masonry-container .vc_btn3.vc_btn3-size-md .vc_btn3-icon {
+        font-size: 32px;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style.light-version .media-testimonial-desc{
+        font-size: 16px!important;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .mk-testimonial-image img{
+        width: 122px!important;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .flex-direction-nav a {
+        width: 99px;
+        height: 61px;
+    }
+    .media-testimonial-container.mk-testimonial.avantgarde-style .mk-testimonial-content{
+        margin-top: 35px;
+    }
+}

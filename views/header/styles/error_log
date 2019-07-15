@@ -1,0 +1,3 @@
+[10-Apr-2017 06:48:14 UTC] PHP Fatal error:  Class 'Mk_Static_Files' not found in /home/mjihypbg/public_html/wp-content/themes/jupiter-child1/views/header/styles/header-3.php on line 17
+[10-Apr-2017 06:48:14 UTC] PHP Stack trace:
+[10-Apr-2017 06:48:14 UTC] PHP   1. {main}() /home/mjihypbg/public_html/wp-content/themes/jupiter-child1/views/header/styles/header-3.php:0
